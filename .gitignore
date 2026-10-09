@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+out/
+from-scratch/data/input.txt
+from-scratch/data/*.bin
+from-scratch/data/meta.json
