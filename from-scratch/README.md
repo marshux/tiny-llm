@@ -2,7 +2,7 @@
 
 A small, readable GPT-style language model trained from scratch — a learning project for how LLM training works end to end.
 
-Character-level model trained on Tiny Shakespeare (~1MB of text). Default config is ~10M parameters and trains in a few minutes on a single consumer GPU.
+Character-level model trained on Tiny Shakespeare (~1MB of text). Default config is ~10M parameters and trains in about four minutes on an RTX 4070 Ti (results in the [top-level README](../README.md#results-and-findings)).
 
 ## Setup
 
